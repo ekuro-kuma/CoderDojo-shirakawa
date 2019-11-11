@@ -11,19 +11,16 @@ CoderDojo白河のポータルサイトです
 [アンケートはこちら](https://forms.gle/cTmvZKJYbdH96TvC9)
 
 ## プログラミング学習
-[Scratch](https://scratch.mit.edu/)　スクラッチ公式サイト<br>
-[Hour of code](https://hourofcode.com/jp/learn)　アワーオブコードアクティビティ紹介ページ<br>
-[Blockly games](https://blockly-games.appspot.com/) Googleが監修しているプログラミングの基礎を学べるゲーム<br>
-[NHK whyプログラミング](https://www.nhk.or.jp/sougou/programming/origin/scratch/playworld.html) NHKで放送中の子供プログラミング番組公式サイト<br>
+1. [Scratch](https://scratch.mit.edu/)　スクラッチ公式サイト<br>
+2. [Hour of code](https://hourofcode.com/jp/learn)　アワーオブコードアクティビティ紹介ページ<br>
+3. [Blockly games](https://blockly-games.appspot.com/) Googleが監修しているプログラミングの基礎を学べるゲーム<br>
+4. [micro:bit](https://makecode.microbit.org/#) micro:bitオンラインエディタ<br>
+5. [mBlock](https://www.mblock.cc/ja-jp/) mBlockエディタ<br>
+6. [NHK whyプログラミング](https://www.nhk.or.jp/sougou/programming/origin/scratch/playworld.html) NHKで放送中の子供プログラミング番組公式サイト<br>
 
 ## Dojo関係
-[CoderDojo Shirakawa](http://coderdojo-shirakawa.mystrikingly.com) コーダー道場白河の公式サイト<br>
-[CoderDojo Japan](https://coderdojo.jp) コーダー道場ジャパン公式サイト
-
-## SNS関係
-<a class="twitter-timeline" href="https://twitter.com/Coderdojo_shira?ref_src=twsrc%5Etfw">Tweets by Coderdojo_shira</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<a href="https://twitter.com/Coderdojo_shira?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @Coderdojo_shira</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+1. [CoderDojo Shirakawa](http://coderdojo-shirakawa.mystrikingly.com) コーダー道場白河の公式サイト<br>
+2. [CoderDojo Japan](https://coderdojo.jp) コーダー道場ジャパン公式サイト
 
 <div style="text-align: center;">
 2019 CoderDojo shirakawa
