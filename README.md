@@ -11,12 +11,10 @@ CoderDojo白河のポータルサイトです
 [アンケートはこちら](https://forms.gle/cTmvZKJYbdH96TvC9)
 
 ## プログラミング学習
-1. [Scratch](https://scratch.mit.edu/)　スクラッチ公式サイト<br>
-2. [Hour of code](https://hourofcode.com/jp/learn)　アワーオブコードアクティビティ紹介ページ<br>
-3. [Blockly games](https://blockly-games.appspot.com/) Googleが監修しているプログラミングの基礎を学べるゲーム<br>
-4. [micro:bit](https://makecode.microbit.org/#) micro:bitオンラインエディタ<br>
-5. [mBlock](https://www.mblock.cc/ja-jp/) mBlockエディタ<br>
-6. [NHK whyプログラミング](https://www.nhk.or.jp/sougou/programming/origin/scratch/playworld.html) NHKで放送中の子供プログラミング番組公式サイト<br>
+|  |  |  |
+|---|---|---|
+|<a href="https://scratch.mit.edu/"><img src="scratch.png" width="100"><br>スクラッチ公式サイト</a>|<a href="https://hourofcode.com/jp/learn"><img src="hourofcode.png" width="100"><br>アワーオブコードアクティビティ紹介ページ</a>|<a href="https://blockly-games.appspot.com/"><img src="blockly.png" width="100"><br>Google監修 プログラミングの基礎を学べるゲーム</a>|
+|<a href="https://makecode.microbit.org/#"><img src="microbit.jpg" width="100"><br>micro:bitオンラインエディタ</a>|<a href="https://www.mblock.cc/ja-jp/"><img src="mblock.png" width="100"><br>mBlockエディタ</a>|<a href="https://www.nhk.or.jp/sougou/programming/origin/scratch/playworld.html"><img src="why.png" width="100"><br>NHKの子供プログラミング番組公式サイト</a>|
 
 ## Dojo関係
 1. [CoderDojo Shirakawa](http://coderdojo-shirakawa.mystrikingly.com) コーダー道場白河の公式サイト<br>
