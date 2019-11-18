@@ -8,24 +8,7 @@
 CoderDojo白河のポータルサイトです
 
 ## 参加者アンケート
-<style>
-.btn-square {
-  display: inline-block;
-  padding: 0.5em 1em;
-  text-decoration: none;
-  background: #668ad8;/*ボタン色*/
-  color: #FFF;
-  border-bottom: solid 4px #627295;
-  border-radius: 3px;
-}
-.btn-square:active {
-  /*ボタンを押したとき*/
-  -webkit-transform: translateY(4px);
-  transform: translateY(4px);/*下に動く*/
-  border-bottom: none;/*線を消す*/
-}
-</style>
-<a href="https://forms.gle/cTmvZKJYbdH96TvC9" class="btn-square">アンケートはこちら</a>
+[アンケートはこちら](https://forms.gle/cTmvZKJYbdH96TvC9)
 
 ## プログラミング学習
 |  |  |  |
