@@ -22,6 +22,7 @@ CoderDojo白河のポータルサイトです
 </table>
 
 <h2>参加者アンケート</h2>
+CoderDojoにご参加された方にアンケートをお願いしております。今後の改善のために、ご回答いただければ幸いです。
 <a href ="https://forms.gle/cTmvZKJYbdH96TvC9">アンケートはこちら</a>
 
 <h2>Dojo関係</h2>
