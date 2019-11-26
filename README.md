@@ -4,7 +4,8 @@
 
 </div>
 
-<h1>CoderDojo白河 ポータルサイト</h1>
+<h1>CoderDojo白河</h1>
+<h1>ポータルサイト</h1>
 CoderDojo白河のポータルサイトです<br>
 <br>
 <h2>プログラミング学習関係</h2>
