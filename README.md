@@ -1,15 +1,18 @@
+<html>
+<head>
+<title>CoderDojo-Shirakawa Portal site</title>
+<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
 <div style="text-align: center;">
-
 <img src="dojoicon.png">
-
 </div>
 
-<h1>CoderDojo白河</h1>
-<h1>ポータルサイト</h1>
-CoderDojo白河のポータルサイトです<br>
+<center><h1>CoderDojo白河<br>ポータルサイト</h1>
+CoderDojo白河のポータルサイトです<br></center>
 <br>
 <h2>プログラミング学習関係</h2>
-<table style="border:1px solid black">
+<table>
 <tr>
 <th></th>
 <th>リンク</th>
@@ -38,3 +41,4 @@ CoderDojoにご参加された方にアンケートをお願いしておりま�
 <div style="text-align: center;">
 2019 CoderDojo shirakawa
 </div>
+</html>
