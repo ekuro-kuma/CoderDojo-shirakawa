@@ -3,5 +3,5 @@ table, th , tr {
 }
 td{
     border: 1px #0e0d0d solid;
-    align : center;
+    text-align: center;
 }
