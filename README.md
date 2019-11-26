@@ -10,7 +10,9 @@ CoderDojo白河のポータルサイトです<br>
 <h2>プログラミング学習関係</h2>
 <table>
 <tr>
+<th></th>
 <th>リンク</th>
+<th></th>
 </tr>
 <tr>
 <td><a href="https://scratch.mit.edu/"><img src="scratch.png" width="100"><br>スクラッチ公式サイト</a></td>
