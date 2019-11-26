@@ -27,7 +27,7 @@ CoderDojo白河のポータルサイトです<br></center>
 <br>
 <h2>参加者アンケート</h2>
 CoderDojoにご参加された方にアンケートをお願いしております。今後の改善のために、ご回答いただければ幸いです。<br>
-<a href ="https://forms.gle/cTmvZKJYbdH96TvC9">アンケートはこちら</a>
+<a href ="https://forms.gle/cTmvZKJYbdH96TvC9">アンケートはこちら</a><br>
 <br>
 <h2>Dojo関係</h2>
 1. <a href ="http://coderdojo-shirakawa.mystrikingly.co">CoderDojo Shirakawa</a> コーダー道場白河の公式サイト<br>
