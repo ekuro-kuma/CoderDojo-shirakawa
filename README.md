@@ -12,7 +12,7 @@
 CoderDojo白河のポータルサイトです<br></center>
 <br>
 <h2>プログラミング学習関係</h2>
-<table>
+<table align="center">
 <tr>
 <th></th>
 <th>リンク</th>
