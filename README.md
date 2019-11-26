@@ -9,7 +9,7 @@
 CoderDojo白河のポータルサイトです<br>
 <br>
 <h2>プログラミング学習関係</h2>
-<table>
+<table style="border:1px solid black">
 <tr>
 <th></th>
 <th>リンク</th>
