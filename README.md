@@ -13,12 +13,7 @@ CoderDojo白河のポータルサイトです<br></center>
 <br>
 <h2>プログラミング学習関係</h2>
 <table align="center">
-<tr>
-<th></th>
-<th>リンク</th>
-<th></th>
-</tr>
-<tr>
+<caption>リンク</caption>
 <td><a href="https://scratch.mit.edu/"><img src="scratch.png" width="100"><br>スクラッチ公式サイト</a></td>
 <td><a href="https://hourofcode.com/jp/learn"><img src="hourofcode.png" width="100"><br>アワーオブコードアクティビティ紹介ページ</a></td>
 <td><a href="https://blockly-games.appspot.com/"><img src="blockly.png" width="100"><br>Google監修 プログラミングの基礎を学べるゲーム</a></td>
