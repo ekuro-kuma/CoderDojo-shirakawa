@@ -13,7 +13,7 @@ CoderDojo白河のポータルサイトです<br></center>
 <br>
 <br>
 <h2>プログラミング学習関係</h2>
-<table align="center">
+<table text-align="center">
 <tr>
 <td><a href="https://scratch.mit.edu/"><img src="scratch.png" width="100"><br>スクラッチ公式サイト</a></td>
 <td><a href="https://hourofcode.com/jp/learn"><img src="hourofcode.png" width="100"><br>アワーオブコードアクティビティ紹介ページ</a></td>
