@@ -24,6 +24,11 @@ CoderDojo白河のポータルサイトです<br></center>
 <td><a href="https://www.mblock.cc/ja-jp/"><img src="mblock.png" width="100"><br>mBlockエディタ</a></td>
 <td><a href="https://www.nhk.or.jp/sougou/programming/origin/scratch/playworld.html"><img src="why.png" width="100"><br>NHKの子供プログラミング番組公式サイト</a></td>
 </tr>
+<tr>
+<td><a href="https://develop.viscuit.com/env/publicarea.html"><img src="viscuit.jpg" width="100"><br>Viscuit(ビスケット）</a></td>
+<td></td>
+<td></td>
+</tr>
 </table>
 <br>
 <h2>参加者アンケート</h2>
