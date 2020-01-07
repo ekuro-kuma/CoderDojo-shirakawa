@@ -31,6 +31,9 @@ CoderDojo白河のポータルサイトです<br></center>
 </tr>
 </table>
 <br>
+<h2>オススメコンテンツ</h2>
+* mBlockを使ったAI体験 (<a href="https://forest.watch.impress.co.jp/docs/serial/progedu/1225470.html">リンク</a>)
+<br>
 <h2>参加者アンケート</h2>
 CoderDojoにご参加された方にアンケートをお願いしております。今後の改善のために、ご回答いただければ幸いです。<br>
 <a href ="https://forms.gle/cTmvZKJYbdH96TvC9">アンケートはこちら</a><br>
