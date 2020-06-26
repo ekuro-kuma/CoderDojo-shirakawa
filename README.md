@@ -26,7 +26,7 @@ CoderDojo白河のポータルサイトです<br></center>
 </tr>
 <tr>
 <td><a href="https://develop.viscuit.com/env/publicarea.html"><img src="viscuit.jpg" width="100"><br>Viscuit(ビスケット）</a></td>
-<td></td>
+<td><a href="https://www.hackforplay.xyz"><img src="hack.png" width="100"><br>Hack for Play(ハックフォープレイ）</a></td>
 <td></td>
 </tr>
 </table>
@@ -35,7 +35,6 @@ CoderDojo白河のポータルサイトです<br></center>
 1. mBlockを使ったAI体験 (<a href="https://forest.watch.impress.co.jp/docs/serial/progedu/1225470.html">リンク</a>)<br>
 2. Scratchで機械学習体験 (<a href="https://forest.watch.impress.co.jp/docs/serial/progedu/1230831.html">リンク</a>)<br>
 3. ぷよぷよプログラミング (<a href="https://puyo.sega.jp/program_2020/">リンク</a>)<br>
-4. ハックフォープレイ (<a href="https://www.hackforplay.xyz">リンク</a>)<br>
 <br>
 <h2>参加者アンケート</h2>
 CoderDojoにご参加された方にアンケートをお願いしております。今後の改善のために、ご回答いただければ幸いです。<br>
