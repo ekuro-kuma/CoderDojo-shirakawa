@@ -41,7 +41,7 @@ CoderDojoにご参加された方にアンケートをお願いしておりま�
 <a href ="https://forms.gle/cTmvZKJYbdH96TvC9">アンケートはこちら</a><br>
 <br>
 <h2>Dojo関係</h2>
-1. <a href ="http://coderdojo-shirakawa.mystrikingly.co">CoderDojo Shirakawa</a> コーダー道場白河の公式サイト<br>
+1. <a href ="https://coderdojo-shirakawa.work">CoderDojo Shirakawa</a> コーダー道場白河の公式サイト<br>
 2. <a href ="https://coderdojo.jp">CoderDojo Japan</a> コーダー道場ジャパン公式サイト<br>
 <br>
 <div style="text-align: center;">
