@@ -29,11 +29,6 @@ CoderDojo白河のポータルサイトです<br></center>
 <td><a href="https://www.hackforplay.xyz"><img src="hack.png" width="100"><br>Hack for Play(ハックフォープレイ）</a></td>
 <td><a href="https://edu.monaca.io/puyo"><img src="puyo.png" width="100"><br>ぷよぷよプログラミング</a></td>
 </tr>
-<tr>
-<td><a href="https://makecode.microbit.org"><img src="microbit.jpg" width="100"><br>MakeCode for micro:bit</a></td>
-<td></td>
-<td></td>
-</tr>
 </table>
 <br>
 <h2>オススメコンテンツ</h2>
