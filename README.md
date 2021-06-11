@@ -31,6 +31,8 @@ CoderDojo白河のポータルサイトです<br></center>
 </tr>
 </table>
 <br>
+<h2>TFabWoks様サンプル</h2>
+1.ライト点灯サンプル(<a href="https://makecode.microbit.org/52507-28134-59522-51720">リンク</a>)
 <h2>オススメコンテンツ</h2>
 1. mBlockを使ったAI体験 (<a href="https://forest.watch.impress.co.jp/docs/serial/progedu/1225470.html">リンク</a>)<br>
 2. Scratchで機械学習体験 (<a href="https://forest.watch.impress.co.jp/docs/serial/progedu/1230831.html">リンク</a>)<br>
