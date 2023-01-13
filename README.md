@@ -29,6 +29,11 @@ CoderDojo白河のポータルサイトです<br></center>
 <td><a href="https://www.hackforplay.xyz"><img src="hack.png" width="100"><br>Hack for Play(ハックフォープレイ）</a></td>
 <td><a href="https://edu.monaca.io/puyo"><img src="puyo.png" width="100"><br>ぷよぷよプログラミング</a></td>
 </tr>
+<tr>
+<td><a href="https://minecraftcup.com/"><img src="https://minecraftcup.com/2022/wp-content/themes/minecraft/img/common/logo.png" width="100"><br>Minecraft Cup全国大会</a></td>
+<td></td>
+<td></td>
+</tr>
 </table>
 <br>
 <h2>TFabWoks様サンプル</h2>
