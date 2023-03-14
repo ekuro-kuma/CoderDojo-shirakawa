@@ -36,15 +36,9 @@ CoderDojo白河のポータルサイトです<br></center>
 </tr>
 </table>
 <br>
-<h2>TFabWoks様サンプル</h2>
-1.ライト点灯サンプル(<a href="https://makecode.microbit.org/52507-28134-59522-51720">リンク</a>)
 <h2>オススメコンテンツ</h2>
 1. mBlockを使ったAI体験 (<a href="https://forest.watch.impress.co.jp/docs/serial/progedu/1225470.html">リンク</a>)<br>
 2. Scratchで機械学習体験 (<a href="https://forest.watch.impress.co.jp/docs/serial/progedu/1230831.html">リンク</a>)<br>
-<br>
-<h2>参加者アンケート</h2>
-CoderDojoにご参加された方にアンケートをお願いしております。今後の改善のために、ご回答いただければ幸いです。<br>
-<a href ="https://forms.gle/cTmvZKJYbdH96TvC9">アンケートはこちら</a><br>
 <br>
 <h2>Dojo関係</h2>
 1. <a href ="https://coderdojoshirakawa.hateblo.jp/entry/top">CoderDojo Shirakawa</a> コーダー道場白河の公式サイト<br>
