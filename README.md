@@ -31,7 +31,7 @@ CoderDojo白河のポータルサイトです<br></center>
 </tr>
 <tr>
 <td><a href="https://minecraftcup.com/"><img src="https://minecraftcup.com/2022/wp-content/themes/minecraft/img/common/logo.png" width="100"><br>Minecraft Cup全国大会</a></td>
-<td></td>
+<td><a href="https://algo.jeita.or.jp/"><img src="https://algo.jeita.or.jp/img/key.jpg" width="100"><br>アルゴロジック</a></td>
 <td></td>
 </tr>
 </table>
