@@ -25,7 +25,7 @@ CoderDojo白河のポータルサイトです<br></center>
 <td><a href="https://www.nhk.or.jp/sougou/programming/origin/scratch/playworld.html"><img src="why.png" width="100"><br>NHKの子供プログラミング番組公式サイト</a></td>
 </tr>
 <tr>
-<td><a href="https://develop.viscuit.com/env/publicarea.html"><img src="viscuit.jpg" width="100"><br>Viscuit(ビスケット）</a></td>
+<td><a href="https://online.viscuit.com/v1/all/?server=s&v2=true"><img src="viscuit.jpg" width="100"><br>Viscuit(ビスケット）</a></td>
 <td><a href="https://www.hackforplay.xyz"><img src="hack.png" width="100"><br>Hack for Play(ハックフォープレイ）</a></td>
 <td><a href="https://edu.monaca.io/puyo"><img src="puyo.png" width="100"><br>ぷよぷよプログラミング</a></td>
 </tr>
