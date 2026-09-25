@@ -21,7 +21,7 @@ CoderDojo白河のポータルサイトです<br></center>
 </tr>
 <tr>
 <td><a href="https://makecode.microbit.org/#"><img src="microbit.jpg" width="100"><br>micro:bitオンラインエディタ</a></td>
-<td><a href="https://ide.mblock.cc"><img src="mblock.png" width="100"><br>mBlockエディタ</a></td>
+<td><a href="https://ide.mblock.cc/"><img src="mblock.png" width="100"><br>mBlockエディタ</a></td>
 <td><a href="https://www.nhk.or.jp/sougou/programming/origin/scratch/playworld.html"><img src="why.png" width="100"><br>NHKの子供プログラミング番組公式サイト</a></td>
 </tr>
 <tr>
